@@ -11,98 +11,98 @@ skip-proxy=127.0.0.1, 192.168.0.0/16, 10.0.0.0/8, 172.16.0.0/12, 100.64.0.0/10, 
 
 [Proxy]
 DIRECT = direct
-🇸🇬 最新地址：vnet33.fun = vmess, info.asaic.net, 443, username=7E9EA399-9D9E-31D1-7887-F20BA570A836, tls=true, ws=true, ws-path=/, ws-headers=Host:info.asaic.net
-🇺🇲 V1「美」圣何塞01 = vmess, ushe01.asaic.net, 443, username=7E9EA399-9D9E-31D1-7887-F20BA570A836, tls=true, ws=true, ws-path=/, ws-headers=Host:ushe01.asaic.net
-🇺🇲 V1「美」圣何塞02 = vmess, ushe02.asaic.net, 8443, username=7E9EA399-9D9E-31D1-7887-F20BA570A836, tls=true, ws=true, ws-path=/, ws-headers=Host:ushe02.asaic.net
-🇺🇲 V1「美」洛杉矶01 = vmess, usla01.asaic.net, 443, username=7E9EA399-9D9E-31D1-7887-F20BA570A836, tls=true, ws=true, ws-path=/, ws-headers=Host:usla01.asaic.net
-🇺🇲 V1「美」洛杉矶02 = vmess, usla02.asaic.net, 443, username=7E9EA399-9D9E-31D1-7887-F20BA570A836, tls=true, ws=true, ws-path=/, ws-headers=Host:usla02.asaic.net
-🇺🇲 V1「美」洛杉矶03x0.1 = vmess, usvr01.asaic.net, 443, username=7E9EA399-9D9E-31D1-7887-F20BA570A836, tls=true, ws=true, ws-path=/, ws-headers=Host:usvr01.asaic.net
-🇺🇲 V1「美」洛杉矶04x0.1 = vmess, usvr02.asaic.net, 443, username=7E9EA399-9D9E-31D1-7887-F20BA570A836, tls=true, ws=true, ws-path=/, ws-headers=Host:usvr02.asaic.net
-🇺🇲 V1「美」洛杉矶05 = vmess, uscc01.asaic.net, 443, username=7E9EA399-9D9E-31D1-7887-F20BA570A836, tls=true, ws=true, ws-path=/, ws-headers=Host:uscc01.asaic.net
-🇺🇲 V1「美」洛杉矶06 = vmess, uscc02.asaic.net, 443, username=7E9EA399-9D9E-31D1-7887-F20BA570A836, tls=true, ws=true, ws-path=/, ws-headers=Host:uscc02.asaic.net
-🇺🇲 V1「美」芝加哥01 = vmess, us6601.asaic.net, 443, username=7E9EA399-9D9E-31D1-7887-F20BA570A836, tls=true, ws=true, ws-path=/, ws-headers=Host:us6601.asaic.net
-🇺🇲 V1「美」微软云01 = vmess, usms01.asaic.net, 443, username=7E9EA399-9D9E-31D1-7887-F20BA570A836, tls=true, ws=true, ws-path=/, ws-headers=Host:usms01.asaic.net
-🇺🇲 V1「美」微软云02 = vmess, usazw21.asaic.net, 443, username=7E9EA399-9D9E-31D1-7887-F20BA570A836, tls=true, ws=true, ws-path=/, ws-headers=Host:usazw21.asaic.net
-🇺🇲 V1「美」微软云03 = vmess, usazw22.asaic.net, 443, username=7E9EA399-9D9E-31D1-7887-F20BA570A836, tls=true, ws=true, ws-path=/, ws-headers=Host:usazw22.asaic.net
-🇺🇲 V1「美」亚马逊云01 = vmess, usas01.asaic.net, 443, username=7E9EA399-9D9E-31D1-7887-F20BA570A836, tls=true, ws=true, ws-path=/, ws-headers=Host:usas01.asaic.net
-🇭🇰 V1「港」香港电讯01 = vmess, hkktd01.asaic.net, 443, username=7E9EA399-9D9E-31D1-7887-F20BA570A836, tls=true, ws=true, ws-path=/, ws-headers=Host:hkktd01.asaic.net
-🇭🇰 V1「港」香港电讯02 = vmess, hkktd02.asaic.net, 443, username=7E9EA399-9D9E-31D1-7887-F20BA570A836, tls=true, ws=true, ws-path=/, ws-headers=Host:hkktd02.asaic.net
-🇭🇰 V1「港」香港电讯03 = vmess, hkktd03.asaic.net, 443, username=7E9EA399-9D9E-31D1-7887-F20BA570A836, tls=true, ws=true, ws-path=/, ws-headers=Host:hkktd03.asaic.net
-🇭🇰 V1「港」香港电讯04 = vmess, hkktd04.asaic.net, 443, username=7E9EA399-9D9E-31D1-7887-F20BA570A836, tls=true, ws=true, ws-path=/, ws-headers=Host:hkktd04.asaic.net
-🇭🇰 V1「港」香港电讯05 = vmess, hkktd05.asaic.net, 443, username=7E9EA399-9D9E-31D1-7887-F20BA570A836, tls=true, ws=true, ws-path=/, ws-headers=Host:hkktd05.asaic.net
-🇭🇰 V1「港」香港电讯06 = vmess, hkktd06.asaic.net, 443, username=7E9EA399-9D9E-31D1-7887-F20BA570A836, tls=true, ws=true, ws-path=/, ws-headers=Host:hkktd06.asaic.net
-🇭🇰 V1「港」香港电讯07 = vmess, hkktd09.asaic.net, 443, username=7E9EA399-9D9E-31D1-7887-F20BA570A836, tls=true, ws=true, ws-path=/, ws-headers=Host:hkktd09.asaic.net
-🇭🇰 V1「港」香港电讯08 = vmess, hkktd10.asaic.net, 443, username=7E9EA399-9D9E-31D1-7887-F20BA570A836, tls=true, ws=true, ws-path=/, ws-headers=Host:hkktd10.asaic.net
-🇭🇰 V1「港」香港宽频01 = vmess, hkknd01.asaic.net, 443, username=7E9EA399-9D9E-31D1-7887-F20BA570A836, tls=true, ws=true, ws-path=/, ws-headers=Host:hkknd01.asaic.net
-🇭🇰 V1「港」香港宽频02 = vmess, hkknd02.asaic.net, 443, username=7E9EA399-9D9E-31D1-7887-F20BA570A836, tls=true, ws=true, ws-path=/, ws-headers=Host:hkknd02.asaic.net
-🇭🇰 V1「港」香港宽频03 = vmess, hkknd03.asaic.net, 443, username=7E9EA399-9D9E-31D1-7887-F20BA570A836, tls=true, ws=true, ws-path=/, ws-headers=Host:hkknd03.asaic.net
-🇭🇰 V1「港」香港宽频04 = vmess, hkknd04.asaic.net, 443, username=7E9EA399-9D9E-31D1-7887-F20BA570A836, tls=true, ws=true, ws-path=/, ws-headers=Host:hkknd04.asaic.net
-🇭🇰 V1「港」汇港电讯01 = vmess, hkwt01.asaic.net, 443, username=7E9EA399-9D9E-31D1-7887-F20BA570A836, tls=true, ws=true, ws-path=/, ws-headers=Host:hkwt01.asaic.net
-🇨🇳 V1「台」中华电信01 = vmess, twhtd02.asaic.net, 443, username=7E9EA399-9D9E-31D1-7887-F20BA570A836, tls=true, ws=true, ws-path=/, ws-headers=Host:twhtd02.asaic.net
-🇨🇳 V1「台」中华电信02 = vmess, twhtd01.asaic.net, 8443, username=7E9EA399-9D9E-31D1-7887-F20BA570A836, tls=true, ws=true, ws-path=/, ws-headers=Host:twhtd01.asaic.net
-🇸🇬 V1「新」亚马逊云01 = vmess, sgas01.asaic.net, 443, username=7E9EA399-9D9E-31D1-7887-F20BA570A836, tls=true, ws=true, ws-path=/, ws-headers=Host:sgas01.asaic.net
-🇯🇵 V1「日」亚马逊云01 = vmess, jpas01.asaic.net, 443, username=7E9EA399-9D9E-31D1-7887-F20BA570A836, tls=true, ws=true, ws-path=/, ws-headers=Host:jpas01.asaic.net
-🇯🇵 V1「日」亚马逊云02 = vmess, jpas02.asaic.net, 443, username=7E9EA399-9D9E-31D1-7887-F20BA570A836, tls=true, ws=true, ws-path=/, ws-headers=Host:jpas02.asaic.net
-🇯🇵 V1「日」NTT01 = vmess, jpvr01.asaic.net, 443, username=7E9EA399-9D9E-31D1-7887-F20BA570A836, tls=true, ws=true, ws-path=/, ws-headers=Host:jpvr01.asaic.net
-🇯🇵 V1「日」IJJ01 = vmess, jpijj01.asaic.net, 443, username=7E9EA399-9D9E-31D1-7887-F20BA570A836, tls=true, ws=true, ws-path=/, ws-headers=Host:jpijj01.asaic.net
-🇰🇷 V1「韩」亚马逊云01 = vmess, kras01.asaic.net, 443, username=7E9EA399-9D9E-31D1-7887-F20BA570A836, tls=true, ws=true, ws-path=/, ws-headers=Host:kras01.asaic.net
-V1「印」亚马逊云01 = vmess, inas11.asaic.net, 443, username=7E9EA399-9D9E-31D1-7887-F20BA570A836, tls=true, ws=true, ws-path=/, ws-headers=Host:inas11.asaic.net
-🇩🇪 V1「德」亚马逊云01 = vmess, deas01.asaic.net, 443, username=7E9EA399-9D9E-31D1-7887-F20BA570A836, tls=true, ws=true, ws-path=/, ws-headers=Host:deas01.asaic.net
-V1「法」亚马逊云01 = vmess, fras01.asaic.net, 443, username=7E9EA399-9D9E-31D1-7887-F20BA570A836, tls=true, ws=true, ws-path=/, ws-headers=Host:fras01.asaic.net
-🇬🇧 V1「英」亚马逊云01 = vmess, enas01.asaic.net, 443, username=7E9EA399-9D9E-31D1-7887-F20BA570A836, tls=true, ws=true, ws-path=/, ws-headers=Host:enas01.asaic.net
-🇺🇲 V2「美」安畅云01 = vmess, usac04.asaic.net, 443, username=7E9EA399-9D9E-31D1-7887-F20BA570A836, tls=true, ws=true, ws-path=/, ws-headers=Host:usac04.asaic.net
-🇺🇲 V2「美」安畅云02 = vmess, usac05.asaic.net, 443, username=7E9EA399-9D9E-31D1-7887-F20BA570A836, tls=true, ws=true, ws-path=/, ws-headers=Host:usac05.asaic.net
-🇺🇲 V2「美」安畅云03 = vmess, usac06.asaic.net, 443, username=7E9EA399-9D9E-31D1-7887-F20BA570A836, tls=true, ws=true, ws-path=/, ws-headers=Host:usac06.asaic.net
-🇺🇲 V2「美」安畅云04 = vmess, usac07.asaic.net, 443, username=7E9EA399-9D9E-31D1-7887-F20BA570A836, tls=true, ws=true, ws-path=/, ws-headers=Host:usac07.asaic.net
-🇭🇰 V2「港」微软云01 = vmess, hkazs01.asaic.net, 443, username=7E9EA399-9D9E-31D1-7887-F20BA570A836, tls=true, ws=true, ws-path=/, ws-headers=Host:hkazs01.asaic.net
-🇭🇰 V2「港」微软云02 = vmess, hkazs02.asaic.net, 443, username=7E9EA399-9D9E-31D1-7887-F20BA570A836, tls=true, ws=true, ws-path=/, ws-headers=Host:hkazs02.asaic.net
-🇭🇰 V2「港」微软云03 = vmess, hkazs03.asaic.net, 443, username=7E9EA399-9D9E-31D1-7887-F20BA570A836, tls=true, ws=true, ws-path=/, ws-headers=Host:hkazs03.asaic.net
-🇭🇰 V2「港」微软云04 = vmess, hkazs04.asaic.net, 443, username=7E9EA399-9D9E-31D1-7887-F20BA570A836, tls=true, ws=true, ws-path=/, ws-headers=Host:hkazs04.asaic.net
-🇨🇳 V2「台」中华电信03 = vmess, twhtd11.asaic.net, 443, username=7E9EA399-9D9E-31D1-7887-F20BA570A836, tls=true, ws=true, ws-path=/, ws-headers=Host:twhtd11.asaic.net
-🇻🇳 V2「越」越南电信01 = vmess, vnpt01.asaic.net, 443, username=7E9EA399-9D9E-31D1-7887-F20BA570A836, tls=true, ws=true, ws-path=/, ws-headers=Host:vnpt01.asaic.net
-🇸🇬 V2「新」微软云01 = vmess, sgms02.asaic.net, 443, username=7E9EA399-9D9E-31D1-7887-F20BA570A836, tls=true, ws=true, ws-path=/, ws-headers=Host:sgms02.asaic.net
-🇸🇬 V2「新」微软云02 = vmess, sgms03.asaic.net, 443, username=7E9EA399-9D9E-31D1-7887-F20BA570A836, tls=true, ws=true, ws-path=/, ws-headers=Host:sgms03.asaic.net
-🇯🇵 V2「日」软银01 = vmess, jpsb01.asaic.net, 443, username=7E9EA399-9D9E-31D1-7887-F20BA570A836, tls=true, ws=true, ws-path=/, ws-headers=Host:jpsb01.asaic.net
-🇯🇵 V2「日」软银02 = vmess, jpsb02.asaic.net, 443, username=7E9EA399-9D9E-31D1-7887-F20BA570A836, tls=true, ws=true, ws-path=/, ws-headers=Host:jpsb02.asaic.net
-🇯🇵 V2「日」微软云01 = vmess, jpaz01.asaic.net, 443, username=7E9EA399-9D9E-31D1-7887-F20BA570A836, tls=true, ws=true, ws-path=/, ws-headers=Host:jpaz01.asaic.net
-🇯🇵 V2「日」微软云02 = vmess, jpaz02.asaic.net, 443, username=7E9EA399-9D9E-31D1-7887-F20BA570A836, tls=true, ws=true, ws-path=/, ws-headers=Host:jpaz02.asaic.net
-🇯🇵 V2「日」微软云03 = vmess, jpazs01.asaic.net, 443, username=7E9EA399-9D9E-31D1-7887-F20BA570A836, tls=true, ws=true, ws-path=/, ws-headers=Host:jpazs01.asaic.net
-🇯🇵 V2「日」微软云04 = vmess, jpazs02.asaic.net, 443, username=7E9EA399-9D9E-31D1-7887-F20BA570A836, tls=true, ws=true, ws-path=/, ws-headers=Host:jpazs02.asaic.net
-🇰🇷 V2「韩」微软云01 = vmess, krazs01.asaic.net, 443, username=7E9EA399-9D9E-31D1-7887-F20BA570A836, tls=true, ws=true, ws-path=/, ws-headers=Host:krazs01.asaic.net
-🇰🇷 V2「韩」微软云02 = vmess, krazs02.asaic.net, 443, username=7E9EA399-9D9E-31D1-7887-F20BA570A836, tls=true, ws=true, ws-path=/, ws-headers=Host:krazs02.asaic.net
-🇩🇪 V2「德」安畅云01 = vmess, deac01.asaic.net, 443, username=7E9EA399-9D9E-31D1-7887-F20BA570A836, tls=true, ws=true, ws-path=/, ws-headers=Host:deac01.asaic.net
-🇩🇪 V2「德」安畅云02 = vmess, deac02.asaic.net, 443, username=7E9EA399-9D9E-31D1-7887-F20BA570A836, tls=true, ws=true, ws-path=/, ws-headers=Host:deac02.asaic.net
-🇺🇲 V2「隧道」苏美A x2 = vmess, cnczuusl01.asaic.net, 32400, username=7E9EA399-9D9E-31D1-7887-F20BA570A836, tls=true, ws=true, ws-path=/, ws-headers=Host:cnczuusl01.asaic.net
-🇺🇲 V2「隧道」苏美B x2 = vmess, cnczuush01.asaic.net, 32401, username=7E9EA399-9D9E-31D1-7887-F20BA570A836, tls=true, ws=true, ws-path=/, ws-headers=Host:cnczuush01.asaic.net
-🇯🇵 V2「隧道」苏日A x2 = vmess, cnczujpd01.asaic.net, 32402, username=7E9EA399-9D9E-31D1-7887-F20BA570A836, tls=true, ws=true, ws-path=/, ws-headers=Host:cnczujpd01.asaic.net
-🇭🇰 V2「隧道」苏港A x2 = vmess, cnczuhkk03.asaic.net, 32403, username=7E9EA399-9D9E-31D1-7887-F20BA570A836, tls=true, ws=true, ws-path=/, ws-headers=Host:cnczuhkk03.asaic.net
-🇭🇰 V2「隧道」苏港B x2 = vmess, cnczuhkk04.asaic.net, 32404, username=7E9EA399-9D9E-31D1-7887-F20BA570A836, tls=true, ws=true, ws-path=/, ws-headers=Host:cnczuhkk04.asaic.net
-🇺🇲 V2「隧道」杭美A x2 = vmess, cnhztusl01.asaic.net, 32400, username=7E9EA399-9D9E-31D1-7887-F20BA570A836, tls=true, ws=true, ws-path=/, ws-headers=Host:cnhztusl01.asaic.net
-🇺🇲 V2「隧道」杭美B x2 = vmess, cnhztush01.asaic.net, 32401, username=7E9EA399-9D9E-31D1-7887-F20BA570A836, tls=true, ws=true, ws-path=/, ws-headers=Host:cnhztush01.asaic.net
-🇯🇵 V2「隧道」杭日A x2 = vmess, cnhztjpd01.asaic.net, 32402, username=7E9EA399-9D9E-31D1-7887-F20BA570A836, tls=true, ws=true, ws-path=/, ws-headers=Host:cnhztjpd01.asaic.net
-🇭🇰 V2「隧道」杭港A x2 = vmess, cnhzthkk03.asaic.net, 32403, username=7E9EA399-9D9E-31D1-7887-F20BA570A836, tls=true, ws=true, ws-path=/, ws-headers=Host:cnhzthkk03.asaic.net
-🇭🇰 V2「隧道」杭港B x2 = vmess, cnhzthkk04.asaic.net, 32404, username=7E9EA399-9D9E-31D1-7887-F20BA570A836, tls=true, ws=true, ws-path=/, ws-headers=Host:cnhzthkk04.asaic.net
-🇺🇲 V3「隧道」京美A x2 = vmess, cnbjuusl01.asaic.net, 32400, username=7E9EA399-9D9E-31D1-7887-F20BA570A836, tls=true, ws=true, ws-path=/, ws-headers=Host:cnbjuusl01.asaic.net
-🇺🇲 V3「隧道」京美B x2 = vmess, cnbjuush01.asaic.net, 32401, username=7E9EA399-9D9E-31D1-7887-F20BA570A836, tls=true, ws=true, ws-path=/, ws-headers=Host:cnbjuush01.asaic.net
-🇯🇵 V3「隧道」京日A x2 = vmess, cnbjujpd01.asaic.net, 32402, username=7E9EA399-9D9E-31D1-7887-F20BA570A836, tls=true, ws=true, ws-path=/, ws-headers=Host:cnbjujpd01.asaic.net
-🇭🇰 V3「隧道」京港A x2 = vmess, cnbjuhkk03.asaic.net, 32403, username=7E9EA399-9D9E-31D1-7887-F20BA570A836, tls=true, ws=true, ws-path=/, ws-headers=Host:cnbjuhkk03.asaic.net
-🇭🇰 V3「隧道」京港B x2 = vmess, cnbjuhkk04.asaic.net, 32404, username=7E9EA399-9D9E-31D1-7887-F20BA570A836, tls=true, ws=true, ws-path=/, ws-headers=Host:cnbjuhkk04.asaic.net
-🇺🇲 V3「隧道」沪美A x2 = vmess, cnshuusl01.asaic.net, 62400, username=7E9EA399-9D9E-31D1-7887-F20BA570A836, tls=true, ws=true, ws-path=/, ws-headers=Host:cnshuusl01.asaic.net
-🇺🇲 V3「隧道」沪美B x2 = vmess, cnshuush01.asaic.net, 62401, username=7E9EA399-9D9E-31D1-7887-F20BA570A836, tls=true, ws=true, ws-path=/, ws-headers=Host:cnshuush01.asaic.net
-🇯🇵 V3「隧道」沪日A x2 = vmess, cnshujpd01.asaic.net, 62402, username=7E9EA399-9D9E-31D1-7887-F20BA570A836, tls=true, ws=true, ws-path=/, ws-headers=Host:cnshujpd01.asaic.net
-🇭🇰 V3「隧道」沪港A x2 = vmess, cnshuhkk03.asaic.net, 62403, username=7E9EA399-9D9E-31D1-7887-F20BA570A836, tls=true, ws=true, ws-path=/, ws-headers=Host:cnshuhkk03.asaic.net
-🇭🇰 V3「隧道」沪港B x2 = vmess, cnshuhkk04.asaic.net, 62404, username=7E9EA399-9D9E-31D1-7887-F20BA570A836, tls=true, ws=true, ws-path=/, ws-headers=Host:cnshuhkk04.asaic.net
-🇭🇰 V3「专线」沪港A x5 = vmess, cnshhkw03.asaic.net, 28443, username=7E9EA399-9D9E-31D1-7887-F20BA570A836, tls=true, ws=true, ws-path=/, ws-headers=Host:cnshhkw03.asaic.net
-🇭🇰 V3「专线」沪港B x5 = vmess, cnshhkw04.asaic.net, 28444, username=7E9EA399-9D9E-31D1-7887-F20BA570A836, tls=true, ws=true, ws-path=/, ws-headers=Host:cnshhkw04.asaic.net
-🇭🇰 V3「专线」深港A x5 = vmess, cnszhkw03.asaic.net, 28443, username=7E9EA399-9D9E-31D1-7887-F20BA570A836, tls=true, ws=true, ws-path=/, ws-headers=Host:cnszhkw03.asaic.net
-🇭🇰 V3「专线」深港B x5 = vmess, cnszhkw04.asaic.net, 28444, username=7E9EA399-9D9E-31D1-7887-F20BA570A836, tls=true, ws=true, ws-path=/, ws-headers=Host:cnszhkw04.asaic.net
-🇭🇰 V3「专线」深港C x5 = vmess, cnszai02.asaic.net, 32400, username=7E9EA399-9D9E-31D1-7887-F20BA570A836, tls=true, ws=true, ws-path=/, ws-headers=Host:cnszai02.asaic.net
-🇭🇰 V3「专线」深港D x5 = vmess, cnszai03.asaic.net, 32401, username=7E9EA399-9D9E-31D1-7887-F20BA570A836, tls=true, ws=true, ws-path=/, ws-headers=Host:cnszai03.asaic.net
-🇨🇳 V3「专线」沪台A x5 = vmess, cnshtwh01.asaic.net, 28445, username=7E9EA399-9D9E-31D1-7887-F20BA570A836, tls=true, ws=true, ws-path=/, ws-headers=Host:cnshtwh01.asaic.net
-🇨🇳 V3「专线」深台A x5 = vmess, cnsztwh01.asaic.net, 28445, username=7E9EA399-9D9E-31D1-7887-F20BA570A836, tls=true, ws=true, ws-path=/, ws-headers=Host:cnsztwh01.asaic.net
-🇨🇳 V3「专线」深台B x5 = vmess, cnsztwh11.asaic.net, 32402, username=7E9EA399-9D9E-31D1-7887-F20BA570A836, tls=true, ws=true, ws-path=/, ws-headers=Host:cnsztwh11.asaic.net
-🇨🇳 V3「回国线」杭州电信 = vmess, cnhz01.asaic.net, 30443, username=7E9EA399-9D9E-31D1-7887-F20BA570A836, tls=true, ws=true, ws-path=/, ws-headers=Host:cnhz01.asaic.net
-🇨🇳 V3「回国线」常州联通 = vmess, cncz01.asaic.net, 30443, username=7E9EA399-9D9E-31D1-7887-F20BA570A836, tls=true, ws=true, ws-path=/, ws-headers=Host:cncz01.asaic.net
+🇸🇬 最新地址：vnet33.fun = vmess, info.asaic.net, 443, aes-128-gcm, username=7E9EA399-9D9E-31D1-7887-F20BA570A836, tls=true, ws=true, ws-path=/, ws-headers=Host:info.asaic.net
+🇺🇲 V1「美」圣何塞01 = vmess, ushe01.asaic.net, 443, aes-128-gcm, username=7E9EA399-9D9E-31D1-7887-F20BA570A836, tls=true, ws=true, ws-path=/, ws-headers=Host:ushe01.asaic.net
+🇺🇲 V1「美」圣何塞02 = vmess, ushe02.asaic.net, 8443, aes-128-gcm, username=7E9EA399-9D9E-31D1-7887-F20BA570A836, tls=true, ws=true, ws-path=/, ws-headers=Host:ushe02.asaic.net
+🇺🇲 V1「美」洛杉矶01 = vmess, usla01.asaic.net, 443, aes-128-gcm, username=7E9EA399-9D9E-31D1-7887-F20BA570A836, tls=true, ws=true, ws-path=/, ws-headers=Host:usla01.asaic.net
+🇺🇲 V1「美」洛杉矶02 = vmess, usla02.asaic.net, 443, aes-128-gcm, username=7E9EA399-9D9E-31D1-7887-F20BA570A836, tls=true, ws=true, ws-path=/, ws-headers=Host:usla02.asaic.net
+🇺🇲 V1「美」洛杉矶03x0.1 = vmess, usvr01.asaic.net, 443, aes-128-gcm, username=7E9EA399-9D9E-31D1-7887-F20BA570A836, tls=true, ws=true, ws-path=/, ws-headers=Host:usvr01.asaic.net
+🇺🇲 V1「美」洛杉矶04x0.1 = vmess, usvr02.asaic.net, 443, aes-128-gcm, username=7E9EA399-9D9E-31D1-7887-F20BA570A836, tls=true, ws=true, ws-path=/, ws-headers=Host:usvr02.asaic.net
+🇺🇲 V1「美」洛杉矶05 = vmess, uscc01.asaic.net, 443, aes-128-gcm, username=7E9EA399-9D9E-31D1-7887-F20BA570A836, tls=true, ws=true, ws-path=/, ws-headers=Host:uscc01.asaic.net
+🇺🇲 V1「美」洛杉矶06 = vmess, uscc02.asaic.net, 443, aes-128-gcm, username=7E9EA399-9D9E-31D1-7887-F20BA570A836, tls=true, ws=true, ws-path=/, ws-headers=Host:uscc02.asaic.net
+🇺🇲 V1「美」芝加哥01 = vmess, us6601.asaic.net, 443, aes-128-gcm, username=7E9EA399-9D9E-31D1-7887-F20BA570A836, tls=true, ws=true, ws-path=/, ws-headers=Host:us6601.asaic.net
+🇺🇲 V1「美」微软云01 = vmess, usms01.asaic.net, 443, aes-128-gcm, username=7E9EA399-9D9E-31D1-7887-F20BA570A836, tls=true, ws=true, ws-path=/, ws-headers=Host:usms01.asaic.net
+🇺🇲 V1「美」微软云02 = vmess, usazw21.asaic.net, 443, aes-128-gcm, username=7E9EA399-9D9E-31D1-7887-F20BA570A836, tls=true, ws=true, ws-path=/, ws-headers=Host:usazw21.asaic.net
+🇺🇲 V1「美」微软云03 = vmess, usazw22.asaic.net, 443, aes-128-gcm, username=7E9EA399-9D9E-31D1-7887-F20BA570A836, tls=true, ws=true, ws-path=/, ws-headers=Host:usazw22.asaic.net
+🇺🇲 V1「美」亚马逊云01 = vmess, usas01.asaic.net, 443, aes-128-gcm, username=7E9EA399-9D9E-31D1-7887-F20BA570A836, tls=true, ws=true, ws-path=/, ws-headers=Host:usas01.asaic.net
+🇭🇰 V1「港」香港电讯01 = vmess, hkktd01.asaic.net, 443, aes-128-gcm, username=7E9EA399-9D9E-31D1-7887-F20BA570A836, tls=true, ws=true, ws-path=/, ws-headers=Host:hkktd01.asaic.net
+🇭🇰 V1「港」香港电讯02 = vmess, hkktd02.asaic.net, 443, aes-128-gcm, username=7E9EA399-9D9E-31D1-7887-F20BA570A836, tls=true, ws=true, ws-path=/, ws-headers=Host:hkktd02.asaic.net
+🇭🇰 V1「港」香港电讯03 = vmess, hkktd03.asaic.net, 443, aes-128-gcm, username=7E9EA399-9D9E-31D1-7887-F20BA570A836, tls=true, ws=true, ws-path=/, ws-headers=Host:hkktd03.asaic.net
+🇭🇰 V1「港」香港电讯04 = vmess, hkktd04.asaic.net, 443, aes-128-gcm, username=7E9EA399-9D9E-31D1-7887-F20BA570A836, tls=true, ws=true, ws-path=/, ws-headers=Host:hkktd04.asaic.net
+🇭🇰 V1「港」香港电讯05 = vmess, hkktd05.asaic.net, 443, aes-128-gcm, username=7E9EA399-9D9E-31D1-7887-F20BA570A836, tls=true, ws=true, ws-path=/, ws-headers=Host:hkktd05.asaic.net
+🇭🇰 V1「港」香港电讯06 = vmess, hkktd06.asaic.net, 443, aes-128-gcm, username=7E9EA399-9D9E-31D1-7887-F20BA570A836, tls=true, ws=true, ws-path=/, ws-headers=Host:hkktd06.asaic.net
+🇭🇰 V1「港」香港电讯07 = vmess, hkktd09.asaic.net, 443, aes-128-gcm, username=7E9EA399-9D9E-31D1-7887-F20BA570A836, tls=true, ws=true, ws-path=/, ws-headers=Host:hkktd09.asaic.net
+🇭🇰 V1「港」香港电讯08 = vmess, hkktd10.asaic.net, 443, aes-128-gcm, username=7E9EA399-9D9E-31D1-7887-F20BA570A836, tls=true, ws=true, ws-path=/, ws-headers=Host:hkktd10.asaic.net
+🇭🇰 V1「港」香港宽频01 = vmess, hkknd01.asaic.net, 443, aes-128-gcm, username=7E9EA399-9D9E-31D1-7887-F20BA570A836, tls=true, ws=true, ws-path=/, ws-headers=Host:hkknd01.asaic.net
+🇭🇰 V1「港」香港宽频02 = vmess, hkknd02.asaic.net, 443, aes-128-gcm, username=7E9EA399-9D9E-31D1-7887-F20BA570A836, tls=true, ws=true, ws-path=/, ws-headers=Host:hkknd02.asaic.net
+🇭🇰 V1「港」香港宽频03 = vmess, hkknd03.asaic.net, 443, aes-128-gcm, username=7E9EA399-9D9E-31D1-7887-F20BA570A836, tls=true, ws=true, ws-path=/, ws-headers=Host:hkknd03.asaic.net
+🇭🇰 V1「港」香港宽频04 = vmess, hkknd04.asaic.net, 443, aes-128-gcm, username=7E9EA399-9D9E-31D1-7887-F20BA570A836, tls=true, ws=true, ws-path=/, ws-headers=Host:hkknd04.asaic.net
+🇭🇰 V1「港」汇港电讯01 = vmess, hkwt01.asaic.net, 443, aes-128-gcm, username=7E9EA399-9D9E-31D1-7887-F20BA570A836, tls=true, ws=true, ws-path=/, ws-headers=Host:hkwt01.asaic.net
+🇨🇳 V1「台」中华电信01 = vmess, twhtd02.asaic.net, 443, aes-128-gcm, username=7E9EA399-9D9E-31D1-7887-F20BA570A836, tls=true, ws=true, ws-path=/, ws-headers=Host:twhtd02.asaic.net
+🇨🇳 V1「台」中华电信02 = vmess, twhtd01.asaic.net, 8443, aes-128-gcm, username=7E9EA399-9D9E-31D1-7887-F20BA570A836, tls=true, ws=true, ws-path=/, ws-headers=Host:twhtd01.asaic.net
+🇸🇬 V1「新」亚马逊云01 = vmess, sgas01.asaic.net, 443, aes-128-gcm, username=7E9EA399-9D9E-31D1-7887-F20BA570A836, tls=true, ws=true, ws-path=/, ws-headers=Host:sgas01.asaic.net
+🇯🇵 V1「日」亚马逊云01 = vmess, jpas01.asaic.net, 443, aes-128-gcm, username=7E9EA399-9D9E-31D1-7887-F20BA570A836, tls=true, ws=true, ws-path=/, ws-headers=Host:jpas01.asaic.net
+🇯🇵 V1「日」亚马逊云02 = vmess, jpas02.asaic.net, 443, aes-128-gcm, username=7E9EA399-9D9E-31D1-7887-F20BA570A836, tls=true, ws=true, ws-path=/, ws-headers=Host:jpas02.asaic.net
+🇯🇵 V1「日」NTT01 = vmess, jpvr01.asaic.net, 443, aes-128-gcm, username=7E9EA399-9D9E-31D1-7887-F20BA570A836, tls=true, ws=true, ws-path=/, ws-headers=Host:jpvr01.asaic.net
+🇯🇵 V1「日」IJJ01 = vmess, jpijj01.asaic.net, 443, aes-128-gcm, username=7E9EA399-9D9E-31D1-7887-F20BA570A836, tls=true, ws=true, ws-path=/, ws-headers=Host:jpijj01.asaic.net
+🇰🇷 V1「韩」亚马逊云01 = vmess, kras01.asaic.net, 443, aes-128-gcm, username=7E9EA399-9D9E-31D1-7887-F20BA570A836, tls=true, ws=true, ws-path=/, ws-headers=Host:kras01.asaic.net
+V1「印」亚马逊云01 = vmess, inas11.asaic.net, 443, aes-128-gcm, username=7E9EA399-9D9E-31D1-7887-F20BA570A836, tls=true, ws=true, ws-path=/, ws-headers=Host:inas11.asaic.net
+🇩🇪 V1「德」亚马逊云01 = vmess, deas01.asaic.net, 443, aes-128-gcm, username=7E9EA399-9D9E-31D1-7887-F20BA570A836, tls=true, ws=true, ws-path=/, ws-headers=Host:deas01.asaic.net
+V1「法」亚马逊云01 = vmess, fras01.asaic.net, 443, aes-128-gcm, username=7E9EA399-9D9E-31D1-7887-F20BA570A836, tls=true, ws=true, ws-path=/, ws-headers=Host:fras01.asaic.net
+🇬🇧 V1「英」亚马逊云01 = vmess, enas01.asaic.net, 443, aes-128-gcm, username=7E9EA399-9D9E-31D1-7887-F20BA570A836, tls=true, ws=true, ws-path=/, ws-headers=Host:enas01.asaic.net
+🇺🇲 V2「美」安畅云01 = vmess, usac04.asaic.net, 443, aes-128-gcm, username=7E9EA399-9D9E-31D1-7887-F20BA570A836, tls=true, ws=true, ws-path=/, ws-headers=Host:usac04.asaic.net
+🇺🇲 V2「美」安畅云02 = vmess, usac05.asaic.net, 443, aes-128-gcm, username=7E9EA399-9D9E-31D1-7887-F20BA570A836, tls=true, ws=true, ws-path=/, ws-headers=Host:usac05.asaic.net
+🇺🇲 V2「美」安畅云03 = vmess, usac06.asaic.net, 443, aes-128-gcm, username=7E9EA399-9D9E-31D1-7887-F20BA570A836, tls=true, ws=true, ws-path=/, ws-headers=Host:usac06.asaic.net
+🇺🇲 V2「美」安畅云04 = vmess, usac07.asaic.net, 443, aes-128-gcm, username=7E9EA399-9D9E-31D1-7887-F20BA570A836, tls=true, ws=true, ws-path=/, ws-headers=Host:usac07.asaic.net
+🇭🇰 V2「港」微软云01 = vmess, hkazs01.asaic.net, 443, aes-128-gcm, username=7E9EA399-9D9E-31D1-7887-F20BA570A836, tls=true, ws=true, ws-path=/, ws-headers=Host:hkazs01.asaic.net
+🇭🇰 V2「港」微软云02 = vmess, hkazs02.asaic.net, 443, aes-128-gcm, username=7E9EA399-9D9E-31D1-7887-F20BA570A836, tls=true, ws=true, ws-path=/, ws-headers=Host:hkazs02.asaic.net
+🇭🇰 V2「港」微软云03 = vmess, hkazs03.asaic.net, 443, aes-128-gcm, username=7E9EA399-9D9E-31D1-7887-F20BA570A836, tls=true, ws=true, ws-path=/, ws-headers=Host:hkazs03.asaic.net
+🇭🇰 V2「港」微软云04 = vmess, hkazs04.asaic.net, 443, aes-128-gcm, username=7E9EA399-9D9E-31D1-7887-F20BA570A836, tls=true, ws=true, ws-path=/, ws-headers=Host:hkazs04.asaic.net
+🇨🇳 V2「台」中华电信03 = vmess, twhtd11.asaic.net, 443, aes-128-gcm, username=7E9EA399-9D9E-31D1-7887-F20BA570A836, tls=true, ws=true, ws-path=/, ws-headers=Host:twhtd11.asaic.net
+🇻🇳 V2「越」越南电信01 = vmess, vnpt01.asaic.net, 443, aes-128-gcm, username=7E9EA399-9D9E-31D1-7887-F20BA570A836, tls=true, ws=true, ws-path=/, ws-headers=Host:vnpt01.asaic.net
+🇸🇬 V2「新」微软云01 = vmess, sgms02.asaic.net, 443, aes-128-gcm, username=7E9EA399-9D9E-31D1-7887-F20BA570A836, tls=true, ws=true, ws-path=/, ws-headers=Host:sgms02.asaic.net
+🇸🇬 V2「新」微软云02 = vmess, sgms03.asaic.net, 443, aes-128-gcm, username=7E9EA399-9D9E-31D1-7887-F20BA570A836, tls=true, ws=true, ws-path=/, ws-headers=Host:sgms03.asaic.net
+🇯🇵 V2「日」软银01 = vmess, jpsb01.asaic.net, 443, aes-128-gcm, username=7E9EA399-9D9E-31D1-7887-F20BA570A836, tls=true, ws=true, ws-path=/, ws-headers=Host:jpsb01.asaic.net
+🇯🇵 V2「日」软银02 = vmess, jpsb02.asaic.net, 443, aes-128-gcm, username=7E9EA399-9D9E-31D1-7887-F20BA570A836, tls=true, ws=true, ws-path=/, ws-headers=Host:jpsb02.asaic.net
+🇯🇵 V2「日」微软云01 = vmess, jpaz01.asaic.net, 443, aes-128-gcm, username=7E9EA399-9D9E-31D1-7887-F20BA570A836, tls=true, ws=true, ws-path=/, ws-headers=Host:jpaz01.asaic.net
+🇯🇵 V2「日」微软云02 = vmess, jpaz02.asaic.net, 443, aes-128-gcm, username=7E9EA399-9D9E-31D1-7887-F20BA570A836, tls=true, ws=true, ws-path=/, ws-headers=Host:jpaz02.asaic.net
+🇯🇵 V2「日」微软云03 = vmess, jpazs01.asaic.net, 443, aes-128-gcm, username=7E9EA399-9D9E-31D1-7887-F20BA570A836, tls=true, ws=true, ws-path=/, ws-headers=Host:jpazs01.asaic.net
+🇯🇵 V2「日」微软云04 = vmess, jpazs02.asaic.net, 443, aes-128-gcm, username=7E9EA399-9D9E-31D1-7887-F20BA570A836, tls=true, ws=true, ws-path=/, ws-headers=Host:jpazs02.asaic.net
+🇰🇷 V2「韩」微软云01 = vmess, krazs01.asaic.net, 443, aes-128-gcm, username=7E9EA399-9D9E-31D1-7887-F20BA570A836, tls=true, ws=true, ws-path=/, ws-headers=Host:krazs01.asaic.net
+🇰🇷 V2「韩」微软云02 = vmess, krazs02.asaic.net, 443, aes-128-gcm, username=7E9EA399-9D9E-31D1-7887-F20BA570A836, tls=true, ws=true, ws-path=/, ws-headers=Host:krazs02.asaic.net
+🇩🇪 V2「德」安畅云01 = vmess, deac01.asaic.net, 443, aes-128-gcm, username=7E9EA399-9D9E-31D1-7887-F20BA570A836, tls=true, ws=true, ws-path=/, ws-headers=Host:deac01.asaic.net
+🇩🇪 V2「德」安畅云02 = vmess, deac02.asaic.net, 443, aes-128-gcm, username=7E9EA399-9D9E-31D1-7887-F20BA570A836, tls=true, ws=true, ws-path=/, ws-headers=Host:deac02.asaic.net
+🇺🇲 V2「隧道」苏美A x2 = vmess, cnczuusl01.asaic.net, 32400, aes-128-gcm, username=7E9EA399-9D9E-31D1-7887-F20BA570A836, tls=true, ws=true, ws-path=/, ws-headers=Host:cnczuusl01.asaic.net
+🇺🇲 V2「隧道」苏美B x2 = vmess, cnczuush01.asaic.net, 32401, aes-128-gcm, username=7E9EA399-9D9E-31D1-7887-F20BA570A836, tls=true, ws=true, ws-path=/, ws-headers=Host:cnczuush01.asaic.net
+🇯🇵 V2「隧道」苏日A x2 = vmess, cnczujpd01.asaic.net, 32402, aes-128-gcm, username=7E9EA399-9D9E-31D1-7887-F20BA570A836, tls=true, ws=true, ws-path=/, ws-headers=Host:cnczujpd01.asaic.net
+🇭🇰 V2「隧道」苏港A x2 = vmess, cnczuhkk03.asaic.net, 32403, aes-128-gcm, username=7E9EA399-9D9E-31D1-7887-F20BA570A836, tls=true, ws=true, ws-path=/, ws-headers=Host:cnczuhkk03.asaic.net
+🇭🇰 V2「隧道」苏港B x2 = vmess, cnczuhkk04.asaic.net, 32404, aes-128-gcm, username=7E9EA399-9D9E-31D1-7887-F20BA570A836, tls=true, ws=true, ws-path=/, ws-headers=Host:cnczuhkk04.asaic.net
+🇺🇲 V2「隧道」杭美A x2 = vmess, cnhztusl01.asaic.net, 32400, aes-128-gcm, username=7E9EA399-9D9E-31D1-7887-F20BA570A836, tls=true, ws=true, ws-path=/, ws-headers=Host:cnhztusl01.asaic.net
+🇺🇲 V2「隧道」杭美B x2 = vmess, cnhztush01.asaic.net, 32401, aes-128-gcm, username=7E9EA399-9D9E-31D1-7887-F20BA570A836, tls=true, ws=true, ws-path=/, ws-headers=Host:cnhztush01.asaic.net
+🇯🇵 V2「隧道」杭日A x2 = vmess, cnhztjpd01.asaic.net, 32402, aes-128-gcm, username=7E9EA399-9D9E-31D1-7887-F20BA570A836, tls=true, ws=true, ws-path=/, ws-headers=Host:cnhztjpd01.asaic.net
+🇭🇰 V2「隧道」杭港A x2 = vmess, cnhzthkk03.asaic.net, 32403, aes-128-gcm, username=7E9EA399-9D9E-31D1-7887-F20BA570A836, tls=true, ws=true, ws-path=/, ws-headers=Host:cnhzthkk03.asaic.net
+🇭🇰 V2「隧道」杭港B x2 = vmess, cnhzthkk04.asaic.net, 32404, aes-128-gcm, username=7E9EA399-9D9E-31D1-7887-F20BA570A836, tls=true, ws=true, ws-path=/, ws-headers=Host:cnhzthkk04.asaic.net
+🇺🇲 V3「隧道」京美A x2 = vmess, cnbjuusl01.asaic.net, 32400, aes-128-gcm, username=7E9EA399-9D9E-31D1-7887-F20BA570A836, tls=true, ws=true, ws-path=/, ws-headers=Host:cnbjuusl01.asaic.net
+🇺🇲 V3「隧道」京美B x2 = vmess, cnbjuush01.asaic.net, 32401, aes-128-gcm, username=7E9EA399-9D9E-31D1-7887-F20BA570A836, tls=true, ws=true, ws-path=/, ws-headers=Host:cnbjuush01.asaic.net
+🇯🇵 V3「隧道」京日A x2 = vmess, cnbjujpd01.asaic.net, 32402, aes-128-gcm, username=7E9EA399-9D9E-31D1-7887-F20BA570A836, tls=true, ws=true, ws-path=/, ws-headers=Host:cnbjujpd01.asaic.net
+🇭🇰 V3「隧道」京港A x2 = vmess, cnbjuhkk03.asaic.net, 32403, aes-128-gcm, username=7E9EA399-9D9E-31D1-7887-F20BA570A836, tls=true, ws=true, ws-path=/, ws-headers=Host:cnbjuhkk03.asaic.net
+🇭🇰 V3「隧道」京港B x2 = vmess, cnbjuhkk04.asaic.net, 32404, aes-128-gcm, username=7E9EA399-9D9E-31D1-7887-F20BA570A836, tls=true, ws=true, ws-path=/, ws-headers=Host:cnbjuhkk04.asaic.net
+🇺🇲 V3「隧道」沪美A x2 = vmess, cnshuusl01.asaic.net, 62400, aes-128-gcm, username=7E9EA399-9D9E-31D1-7887-F20BA570A836, tls=true, ws=true, ws-path=/, ws-headers=Host:cnshuusl01.asaic.net
+🇺🇲 V3「隧道」沪美B x2 = vmess, cnshuush01.asaic.net, 62401, aes-128-gcm, username=7E9EA399-9D9E-31D1-7887-F20BA570A836, tls=true, ws=true, ws-path=/, ws-headers=Host:cnshuush01.asaic.net
+🇯🇵 V3「隧道」沪日A x2 = vmess, cnshujpd01.asaic.net, 62402, aes-128-gcm, username=7E9EA399-9D9E-31D1-7887-F20BA570A836, tls=true, ws=true, ws-path=/, ws-headers=Host:cnshujpd01.asaic.net
+🇭🇰 V3「隧道」沪港A x2 = vmess, cnshuhkk03.asaic.net, 62403, aes-128-gcm, username=7E9EA399-9D9E-31D1-7887-F20BA570A836, tls=true, ws=true, ws-path=/, ws-headers=Host:cnshuhkk03.asaic.net
+🇭🇰 V3「隧道」沪港B x2 = vmess, cnshuhkk04.asaic.net, 62404, aes-128-gcm, username=7E9EA399-9D9E-31D1-7887-F20BA570A836, tls=true, ws=true, ws-path=/, ws-headers=Host:cnshuhkk04.asaic.net
+🇭🇰 V3「专线」沪港A x5 = vmess, cnshhkw03.asaic.net, 28443, aes-128-gcm, username=7E9EA399-9D9E-31D1-7887-F20BA570A836, tls=true, ws=true, ws-path=/, ws-headers=Host:cnshhkw03.asaic.net
+🇭🇰 V3「专线」沪港B x5 = vmess, cnshhkw04.asaic.net, 28444, aes-128-gcm, username=7E9EA399-9D9E-31D1-7887-F20BA570A836, tls=true, ws=true, ws-path=/, ws-headers=Host:cnshhkw04.asaic.net
+🇭🇰 V3「专线」深港A x5 = vmess, cnszhkw03.asaic.net, 28443, aes-128-gcm, username=7E9EA399-9D9E-31D1-7887-F20BA570A836, tls=true, ws=true, ws-path=/, ws-headers=Host:cnszhkw03.asaic.net
+🇭🇰 V3「专线」深港B x5 = vmess, cnszhkw04.asaic.net, 28444, aes-128-gcm, username=7E9EA399-9D9E-31D1-7887-F20BA570A836, tls=true, ws=true, ws-path=/, ws-headers=Host:cnszhkw04.asaic.net
+🇭🇰 V3「专线」深港C x5 = vmess, cnszai02.asaic.net, 32400, aes-128-gcm, username=7E9EA399-9D9E-31D1-7887-F20BA570A836, tls=true, ws=true, ws-path=/, ws-headers=Host:cnszai02.asaic.net
+🇭🇰 V3「专线」深港D x5 = vmess, cnszai03.asaic.net, 32401, aes-128-gcm, username=7E9EA399-9D9E-31D1-7887-F20BA570A836, tls=true, ws=true, ws-path=/, ws-headers=Host:cnszai03.asaic.net
+🇨🇳 V3「专线」沪台A x5 = vmess, cnshtwh01.asaic.net, 28445, aes-128-gcm, username=7E9EA399-9D9E-31D1-7887-F20BA570A836, tls=true, ws=true, ws-path=/, ws-headers=Host:cnshtwh01.asaic.net
+🇨🇳 V3「专线」深台A x5 = vmess, cnsztwh01.asaic.net, 28445, aes-128-gcm, username=7E9EA399-9D9E-31D1-7887-F20BA570A836, tls=true, ws=true, ws-path=/, ws-headers=Host:cnsztwh01.asaic.net
+🇨🇳 V3「专线」深台B x5 = vmess, cnsztwh11.asaic.net, 32402, aes-128-gcm, username=7E9EA399-9D9E-31D1-7887-F20BA570A836, tls=true, ws=true, ws-path=/, ws-headers=Host:cnsztwh11.asaic.net
+🇨🇳 V3「回国线」杭州电信 = vmess, cnhz01.asaic.net, 30443, aes-128-gcm, username=7E9EA399-9D9E-31D1-7887-F20BA570A836, tls=true, ws=true, ws-path=/, ws-headers=Host:cnhz01.asaic.net
+🇨🇳 V3「回国线」常州联通 = vmess, cncz01.asaic.net, 30443, aes-128-gcm, username=7E9EA399-9D9E-31D1-7887-F20BA570A836, tls=true, ws=true, ws-path=/, ws-headers=Host:cncz01.asaic.net
 
 [Proxy Group]
 🔰 节点选择 = select,♻️ 自动选择,🎯 全球直连,🇸🇬 最新地址：vnet33.fun,🇺🇲 V1「美」圣何塞01,🇺🇲 V1「美」圣何塞02,🇺🇲 V1「美」洛杉矶01,🇺🇲 V1「美」洛杉矶02,🇺🇲 V1「美」洛杉矶03x0.1,🇺🇲 V1「美」洛杉矶04x0.1,🇺🇲 V1「美」洛杉矶05,🇺🇲 V1「美」洛杉矶06,🇺🇲 V1「美」芝加哥01,🇺🇲 V1「美」微软云01,🇺🇲 V1「美」微软云02,🇺🇲 V1「美」微软云03,🇺🇲 V1「美」亚马逊云01,🇭🇰 V1「港」香港电讯01,🇭🇰 V1「港」香港电讯02,🇭🇰 V1「港」香港电讯03,🇭🇰 V1「港」香港电讯04,🇭🇰 V1「港」香港电讯05,🇭🇰 V1「港」香港电讯06,🇭🇰 V1「港」香港电讯07,🇭🇰 V1「港」香港电讯08,🇭🇰 V1「港」香港宽频01,🇭🇰 V1「港」香港宽频02,🇭🇰 V1「港」香港宽频03,🇭🇰 V1「港」香港宽频04,🇭🇰 V1「港」汇港电讯01,🇨🇳 V1「台」中华电信01,🇨🇳 V1「台」中华电信02,🇸🇬 V1「新」亚马逊云01,🇯🇵 V1「日」亚马逊云01,🇯🇵 V1「日」亚马逊云02,🇯🇵 V1「日」NTT01,🇯🇵 V1「日」IJJ01,🇰🇷 V1「韩」亚马逊云01,V1「印」亚马逊云01,🇩🇪 V1「德」亚马逊云01,V1「法」亚马逊云01,🇬🇧 V1「英」亚马逊云01,🇺🇲 V2「美」安畅云01,🇺🇲 V2「美」安畅云02,🇺🇲 V2「美」安畅云03,🇺🇲 V2「美」安畅云04,🇭🇰 V2「港」微软云01,🇭🇰 V2「港」微软云02,🇭🇰 V2「港」微软云03,🇭🇰 V2「港」微软云04,🇨🇳 V2「台」中华电信03,🇻🇳 V2「越」越南电信01,🇸🇬 V2「新」微软云01,🇸🇬 V2「新」微软云02,🇯🇵 V2「日」软银01,🇯🇵 V2「日」软银02,🇯🇵 V2「日」微软云01,🇯🇵 V2「日」微软云02,🇯🇵 V2「日」微软云03,🇯🇵 V2「日」微软云04,🇰🇷 V2「韩」微软云01,🇰🇷 V2「韩」微软云02,🇩🇪 V2「德」安畅云01,🇩🇪 V2「德」安畅云02,🇺🇲 V2「隧道」苏美A x2,🇺🇲 V2「隧道」苏美B x2,🇯🇵 V2「隧道」苏日A x2,🇭🇰 V2「隧道」苏港A x2,🇭🇰 V2「隧道」苏港B x2,🇺🇲 V2「隧道」杭美A x2,🇺🇲 V2「隧道」杭美B x2,🇯🇵 V2「隧道」杭日A x2,🇭🇰 V2「隧道」杭港A x2,🇭🇰 V2「隧道」杭港B x2,🇺🇲 V3「隧道」京美A x2,🇺🇲 V3「隧道」京美B x2,🇯🇵 V3「隧道」京日A x2,🇭🇰 V3「隧道」京港A x2,🇭🇰 V3「隧道」京港B x2,🇺🇲 V3「隧道」沪美A x2,🇺🇲 V3「隧道」沪美B x2,🇯🇵 V3「隧道」沪日A x2,🇭🇰 V3「隧道」沪港A x2,🇭🇰 V3「隧道」沪港B x2,🇭🇰 V3「专线」沪港A x5,🇭🇰 V3「专线」沪港B x5,🇭🇰 V3「专线」深港A x5,🇭🇰 V3「专线」深港B x5,🇭🇰 V3「专线」深港C x5,🇭🇰 V3「专线」深港D x5,🇨🇳 V3「专线」沪台A x5,🇨🇳 V3「专线」深台A x5,🇨🇳 V3「专线」深台B x5,🇨🇳 V3「回国线」杭州电信,🇨🇳 V3「回国线」常州联通
