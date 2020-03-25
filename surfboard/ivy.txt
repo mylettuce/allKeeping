@@ -56,7 +56,7 @@ V1「法」亚马逊云01 = vmess, fras01.asaic.net, 443, username=7E9EA399-9D9E
 🇺🇲 V2「美」安畅云04 = vmess, usac07.asaic.net, 443, username=7E9EA399-9D9E-31D1-7887-F20BA570A836, tls=true, ws=true, ws-path=/, ws-headers=Host:usac07.asaic.net
 🇭🇰 V2「港」微软云01 = vmess, hkazs01.asaic.net, 443, username=7E9EA399-9D9E-31D1-7887-F20BA570A836, tls=true, ws=true, ws-path=/, ws-headers=Host:hkazs01.asaic.net
 🇭🇰 V2「港」微软云02 = vmess, hkazs02.asaic.net, 443, username=7E9EA399-9D9E-31D1-7887-F20BA570A836, tls=true, ws=true, ws-path=/, ws-headers=Host:hkazs02.asaic.net
-🇭🇰 V2「港」微软云03 = vmess, hkazs03.asaic.net, 443, username=7E9EA399-9D9E-31D1-7887-F20BA570A836, tls=true, ws=true, ws-path=/, ws-headers=Host:hkazs03.asaic.net
+🇭🇰 V2「港」微软云03 = vmess, hkazs03.asaic.net, 443, aes-128-gcm, username=7E9EA399-9D9E-31D1-7887-F20BA570A836, tls=true, ws=true, ws-path=/, ws-headers=Host:hkazs03.asaic.net
 🇭🇰 V2「港」微软云04 = vmess, hkazs04.asaic.net, 443, username=7E9EA399-9D9E-31D1-7887-F20BA570A836, tls=true, ws=true, ws-path=/, ws-headers=Host:hkazs04.asaic.net
 🇨🇳 V2「台」中华电信03 = vmess, twhtd11.asaic.net, 443, username=7E9EA399-9D9E-31D1-7887-F20BA570A836, tls=true, ws=true, ws-path=/, ws-headers=Host:twhtd11.asaic.net
 🇻🇳 V2「越」越南电信01 = vmess, vnpt01.asaic.net, 443, username=7E9EA399-9D9E-31D1-7887-F20BA570A836, tls=true, ws=true, ws-path=/, ws-headers=Host:vnpt01.asaic.net
